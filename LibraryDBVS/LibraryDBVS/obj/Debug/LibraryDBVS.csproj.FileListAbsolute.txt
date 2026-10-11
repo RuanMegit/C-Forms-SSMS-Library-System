@@ -1,0 +1,11 @@
+C:\Users\ruanm\OneDrive\Desktop\LibraryDBVS\LibraryDBVS\bin\Debug\LibraryDBVS.exe.config
+C:\Users\ruanm\OneDrive\Desktop\LibraryDBVS\LibraryDBVS\bin\Debug\LibraryDBVS.exe
+C:\Users\ruanm\OneDrive\Desktop\LibraryDBVS\LibraryDBVS\bin\Debug\LibraryDBVS.pdb
+C:\Users\ruanm\OneDrive\Desktop\LibraryDBVS\LibraryDBVS\obj\Debug\LibraryDBVS.csproj.AssemblyReference.cache
+C:\Users\ruanm\OneDrive\Desktop\LibraryDBVS\LibraryDBVS\obj\Debug\LibraryDBVS.LoginForm.resources
+C:\Users\ruanm\OneDrive\Desktop\LibraryDBVS\LibraryDBVS\obj\Debug\LibraryDBVS.MainForm.resources
+C:\Users\ruanm\OneDrive\Desktop\LibraryDBVS\LibraryDBVS\obj\Debug\LibraryDBVS.Properties.Resources.resources
+C:\Users\ruanm\OneDrive\Desktop\LibraryDBVS\LibraryDBVS\obj\Debug\LibraryDBVS.csproj.GenerateResource.cache
+C:\Users\ruanm\OneDrive\Desktop\LibraryDBVS\LibraryDBVS\obj\Debug\LibraryDBVS.csproj.CoreCompileInputs.cache
+C:\Users\ruanm\OneDrive\Desktop\LibraryDBVS\LibraryDBVS\obj\Debug\LibraryDBVS.exe
+C:\Users\ruanm\OneDrive\Desktop\LibraryDBVS\LibraryDBVS\obj\Debug\LibraryDBVS.pdb
